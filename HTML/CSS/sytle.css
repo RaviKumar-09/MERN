@@ -1,0 +1,14 @@
+p{
+    font-size: 25px;
+    color: rgb(25, 201, 219);
+}
+h2{
+    color: #808484;
+    font-size: 25px;
+    border: 2px solid red;
+}
+body{
+    background-image: url("drink.png");
+    background-size: a;
+    background-repeat: no-repeat;
+}
